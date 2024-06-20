@@ -7,10 +7,10 @@ Welcome to my project! Here, I explore the relationship between seismic activity
 
 ### Data Sources
 
-#### USGS Earthquakes API
+#### USGS Earthquakes API <https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson>
 I utilize the USGS Earthquakes API to gather real-time insights into global seismic activity. This API provides detailed information on earthquake events, including magnitude, location, and event timestamps.
 
-#### Sunrise Sunset API
+#### Sunrise Sunset API <https://api.sunrisesunset.io/json?lat=38.907192&lng=-77.036873>
 The Sunrise Sunset API offers daily updates on astronomical phenomena such as sunrise and sunset times. This data is crucial for understanding the diurnal patterns I am analyzing in relation to seismic events.
 
 ### Conclusion
